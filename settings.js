@@ -14,7 +14,7 @@ global.ownerName = 'Tn_vams'
 global.packname = 'vams'
 global.author = 'Vmas072'
 global.prefa = ['','!','.','#','!'] //Ilangin Prefix Yang '' Kalau Gamau No Prefix
-global.sessionName = 'sesi'
+global.sessionName = 'session'
 
 //Message Nya Ubah Disini
 global.mess = {
